@@ -19,7 +19,7 @@
 
 
  
-- 🔭 <samp> My research interests focus on Parallel and Distributed Systems and Networks.</samp> 
+- 🔭 <samp> My research interests focus on Parallel and Distributed Systems, Networks, and Complex Systems.</samp> 
 - :page_facing_up:  <samp> Visit my research profiles: </samp> <a  href="https://scholar.google.com/citations?user=Urf6lNEAAAAJ&hl"><img alt="Google scholar" src="https://img.shields.io/badge/Google%20Scholar-profile-blue.svg"></a>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=55757507300"><img alt="Scopus" src="https://img.shields.io/badge/Scopus-profile-orange.svg"></a>
 <a href="https://orcid.org/0000-0002-8267-9808"><img alt="ORC ID" src="https://img.shields.io/badge/ORC-ID-green.svg"></a>
