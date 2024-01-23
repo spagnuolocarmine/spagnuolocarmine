@@ -3,7 +3,7 @@
     <samp>
         Hello there! I'm <b><a href="https://spagnuolocarmine.github.io/">Carmine Spagnuolo</a></b>.
         <br> <img align="middle" width="200px" src="https://raw.githubusercontent.com/spagnuolocarmine/spagnuolocarmine/main/sail.gif" />
-        <br> I’m a Postdoc  @ <b><a href="https://www.unisa.it/"> Università degli Studi di Salerno</a></b>.
+        <br> I’m a tenure-track researcherr (RTD-B)  @ <b><a href="https://www.unisa.it/"> Università degli Studi di Salerno</a></b>.
         <br>
     </samp>
     <img align="middle"
