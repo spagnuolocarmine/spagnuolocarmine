@@ -7,7 +7,7 @@
         <br>
     </samp>
     <img align="middle"
-        src="https://github-readme-stats.vercel.app/api?username=spagnuolocarmine&show_icons=true&hide_title=true" />
+        src="https://github-readme-stats.vercel.app/api?username=spagnuolocarmine&hide=contribs,prs" />
      <br>
      <a href="mailto:cspagnuolo@unisa.it" title="mail me"><img style="height:20px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a  href="https://www.linkedin.com/in/carmine-spagnuolo-62785b75/" title="linkedin"><img style="height:20px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
