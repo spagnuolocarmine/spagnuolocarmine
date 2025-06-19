@@ -30,10 +30,6 @@
 - 🌱 <samp> I’m currently suggest to learn the [Rust language](https://www.rust-lang.org/).</samp> 
 - 📫 <samp> How to reach me: </samp> [![h:30](https://img.shields.io/badge/📧-cspagnuolo%40unisa.it-green)](mailto:cspagnuolo@unisa.it)
 
-<p align="center">
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=spagnuolocarmine&langs_count=100" />
-</p>
 
 
 
